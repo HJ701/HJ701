@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=ML%20%26%20CV%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20for%20Healthcare%2C%20Distributed%20Systems%20%26%20VLM%2FLLM%20Productization&descAlignY=51&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=ML%20and%20CV%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20for%20Healthcare%20and%20Distributed%20Systems&descAlignY=51&descSize=20" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Building+real-world+AI+systems;Medical+Imaging+%7C+VLM%2FLLM+%7C+RAG;Multi-modal+AI+for+Healthcare;Distributed+Training+%7C+DeepSpeed+%7C+MoE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Building+real-world+AI+systems;Medical+Imaging+VLM+LLM+RAG;Multi-modal+AI+for+Healthcare;Distributed+Training+DeepSpeed+MoE" alt="Typing SVG" /></a>
 
 <br/>
 
