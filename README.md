@@ -1,17 +1,18 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=AI%20Engineer&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Vision%20×%20Quantitative%20Finance&descAlignY=51&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=ML%20%26%20CV%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20for%20Healthcare%2C%20Distributed%20Systems%20%26%20VLM%2FLLM%20Productization&descAlignY=51&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Turning+messy+data+into+intelligence;Production-first%2C+not+research-first;Medical+AI+%7C+Trading+Systems;Deep+Learning+%7C+MLOps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=700&lines=Building+real-world+AI+systems;Medical+Imaging+%7C+VLM%2FLLM+%7C+RAG;Multi-modal+AI+for+Healthcare;Distributed+Training+%7C+DeepSpeed+%7C+MoE" alt="Typing SVG" /></a>
 
 <br/>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)]()
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
 
 </div>
 
@@ -19,129 +20,148 @@
 
 ## 🎯 About Me
 
-I'm a **Multidisciplinary AI Engineer** specializing in high-stakes environments where models need to actually work—not just achieve benchmark scores. My expertise bridges two critical domains:
+**Machine Learning & Computer Vision Engineer** building real-world AI systems across medical imaging, distributed training, and VLM/LLM/RAG productization. Currently leading multi-modal AI research and commercialization efforts in healthcare and decision-support systems.
 
-🏥 **Medical AI & Computer Vision**  
-🔬 Pathology detection from imaging data  
-🧬 Deep learning for diagnostic systems  
-📊 Handling class imbalance in healthcare datasets
+🏥 **Healthcare AI**  
+🔬 Multi-modal medical imaging (OPG, Intraoral)  
+🧬 Diagnostic systems with contextual notes integration  
+🩺 LLM safety & hallucination mitigation in healthcare
 
-📈 **Quantitative Finance**  
-💹 Algorithmic trading strategy development  
-📉 Walk-forward analysis & backtesting  
-⚡ Risk modeling & portfolio optimization
+⚡ **Distributed Systems & LLMs**  
+🚀 Scaling deep learning with DeepSpeed, MoE, multi-node training  
+🤖 VLM/LLM productization & RAG pipelines  
+📊 Vision Transformers & Diffusion Models
 
 ## 💻 Tech Stack & Expertise
 
 <details open>
-<summary><b>🔥 Deep Learning & Computer Vision</b></summary>
+<summary><b>🤖 AI / ML</b></summary>
 <br>
 
-- **Frameworks:** TensorFlow, PyTorch, Keras
-- **Computer Vision:** OpenCV, YOLO, Detectron2
-- **Medical Imaging:** DICOM processing, 3D imaging, segmentation
-- **Model Optimization:** Quantization, pruning, ONNX deployment
+- **LLMs & VLMs:** RAG, Transformers, Vision Transformers (ViT, Swin), Diffusion Models
+- **Advanced Techniques:** Multi-Task Learning, Mixture of Experts (MoE), Transfer Learning
+- **Training Methods:** Self-Supervision, Weak Supervision, Attention Mechanisms
+- **Model Safety:** LLM hallucination mitigation, reasoning integrity in healthcare
 
 </details>
 
 <details open>
-<summary><b>📊 Quantitative Finance & Data Science</b></summary>
+<summary><b>👁️ Computer Vision</b></summary>
 <br>
 
-- **Trading Systems:** Backtesting frameworks, walk-forward analysis
-- **Time Series:** ARIMA, LSTM, Transformer models
-- **Risk Analytics:** VaR, Sharpe ratio optimization, Monte Carlo simulation
-- **Data Processing:** Pandas, NumPy, Polars, DuckDB
+- **Medical Imaging:** OPG, Intraoral imaging, diagnostic systems
+- **Architectures:** Swin-UNet, ResNet, Vision Transformers, Attention Mechanisms
+- **Tasks:** Segmentation, Classification, Object Detection, Visual Embeddings
+- **Multi-modal:** Integrating imaging with contextual diagnostic notes
 
 </details>
 
 <details open>
-<summary><b>🛠️ MLOps & Engineering</b></summary>
+<summary><b>⚡ Data Engineering & Distributed Systems</b></summary>
 <br>
 
-- **Pipeline Engineering:** Airflow, Prefect, custom ETL
-- **Deployment:** Docker, FastAPI, AWS/GCP
-- **Monitoring:** MLflow, Weights & Biases
-- **Version Control:** Git, DVC for data versioning
+- **Distributed Training:** DeepSpeed, torchrun, ZeRO optimization, multi-node training
+- **Data Pipelines:** ETL, Web Scraping (BeautifulSoup, Selenium), Feature Engineering
+- **MLOps Tools:** DVC, Airflow, model versioning, experiment tracking
+- **Scaling:** Large-scale model training, distributed inference
 
 </details>
 
-## 🚀 What Makes Me Different
+<details open>
+<summary><b>🛠️ Software & DevOps</b></summary>
+<br>
+
+- **Backend:** Python, FastAPI, Flask, Node.js, JavaScript
+- **Frontend:** React
+- **Database:** MongoDB
+- **DevOps:** Docker, GitHub Actions, CI/CD pipelines
+- **Cloud:** AWS (EC2, S3), cloud infrastructure management
+
+</details>
+
+## 🚀 Current Focus
+
+🔬 **Leading a multi-modal AI system** for medical diagnostics integrating different medical image modalities and contextual diagnostic notes
+
+🛡️ **Researching LLM safety**, hallucination mitigation, and reasoning integrity in healthcare AI
+
+⚡ **Scaling distributed deep learning systems** with DeepSpeed, MoE, and multi-node training
+
+## 💡 Problem-Solving Approach
 
 ```python
-class AIEngineer:
+class MLEngineer:
     def __init__(self):
-        self.mindset = "Production-first, not research-first"
-        self.specialty = "Making AI work with messy, real-world data"
+        self.focus = "Real-world AI systems, not just papers"
+        self.specialty = "Healthcare + Distributed Systems + LLM Productization"
     
-    def solve(self, problem):
-        # Most engineers start here ❌
-        # model = download_pretrained_model()
+    def build_system(self, problem):
+        # Research → Production pipeline
+        data = self.prepare_multimodal_data(problem)
         
-        # I start here ✅
-        data = self.clean_messy_data(problem.raw_data)
-        synthetic_data = self.generate_augmentations(data)
-        pipeline = self.build_robust_pipeline(data)
+        # Scale with distributed training
+        model = self.train_with_deepspeed(
+            data=data,
+            architecture="VisionTransformer",
+            strategy="MoE + ZeRO"
+        )
         
-        model = self.train_production_ready_model(pipeline)
-        return self.deploy_with_monitoring(model)
+        # Production-ready deployment
+        system = self.productize_with_safety(
+            model=model,
+            guardrails="hallucination_detection",
+            monitoring="real_time_healthcare_metrics"
+        )
+        
+        return system.deploy()
 ```
 
-**🎯 Core Philosophy:**
-- 🧹 **Data Quality > Model Complexity** — Clean data beats fancy algorithms
-- 🔄 **End-to-End Thinking** — From raw data ingestion to model serving
-- 🎲 **Synthetic Data Mastery** — Generate training data when it's scarce
-- ⚡ **Robustness First** — Models that work on Monday morning, not just in notebooks
-
-## 📈 Current Focus
-
-```mermaid
-graph LR
-    A[Raw Data] -->|Data Cleaning| B[Processed Dataset]
-    B -->|Feature Engineering| C[Training Pipeline]
-    C -->|Model Training| D[Deep Learning Model]
-    D -->|Validation| E[Walk-Forward Testing]
-    E -->|Deployment| F[Production System]
-    F -->|Monitoring| G[Performance Tracking]
-    G -->|Feedback Loop| A
-```
-
-🔬 **Active Projects:**
-- Building medical imaging pipelines for pathology detection
-- Developing quantitative trading strategies with reinforcement learning
-- Creating synthetic data generators for rare medical conditions
-- Optimizing high-frequency trading models with low-latency inference
+**🎯 Core Strengths:**
+- 🏥 **Healthcare AI** — Medical imaging systems that meet clinical standards
+- ⚡ **Distributed Training** — Scaling models across multiple nodes efficiently
+- 🤖 **LLM/VLM Systems** — RAG pipelines and vision-language models in production
+- 🔒 **AI Safety** — Mitigating hallucinations and ensuring reasoning integrity
 
 ## 🌟 Key Competencies
 
 | Domain | Skills |
 |--------|--------|
-| **🏥 Medical AI** | Pathology detection, medical image segmentation, DICOM processing, FDA-compliant workflows |
-| **📈 Quant Finance** | Algorithmic trading, walk-forward analysis, backtesting, risk management, alpha generation |
-| **🔧 Data Engineering** | ETL pipelines, data cleaning, synthetic data generation, feature stores |
-| **🚀 Production ML** | Model deployment, monitoring, A/B testing, CI/CD for ML, model versioning |
+| **🏥 Healthcare AI** | Multi-modal medical imaging (OPG, Intraoral), diagnostic systems, clinical-grade AI, contextual integration |
+| **🤖 LLM/VLM Systems** | RAG pipelines, Vision Transformers, hallucination mitigation, VLM productization, reasoning integrity |
+| **⚡ Distributed Systems** | DeepSpeed, MoE, ZeRO optimization, multi-node training, torchrun, large-scale model deployment |
+| **🔧 Data Engineering** | ETL pipelines, web scraping, feature engineering, DVC, Airflow, multi-modal data processing |
+| **🚀 Production ML** | FastAPI, Docker, CI/CD, AWS infrastructure, model deployment, safety guardrails |
 
-## 💡 Problem-Solving Approach
+## 📊 System Architecture
 
-I excel at projects where:
-- ❌ The data is messy, incomplete, or poorly structured
-- ⚡ Real-time performance and low latency matter
-- 🎯 Precision is critical (healthcare, finance)
-- 🔄 The problem requires end-to-end pipeline thinking
-- 🎲 Training data is scarce and needs augmentation
+```mermaid
+graph TB
+    A[Medical Images] -->|Multi-modal Input| B[Vision Transformers]
+    C[Diagnostic Notes] -->|Text Processing| D[LLM Layer]
+    B --> E[Multi-Task Learning]
+    D --> E
+    E -->|Distributed Training| F[DeepSpeed + MoE]
+    F -->|Safety Layer| G[Hallucination Detection]
+    G -->|Production API| H[Healthcare System]
+    H -->|Monitoring| I[Real-time Metrics]
+    I -->|Feedback| A
+```
 
-## 📫 Let's Build Something
+## 📫 Let's Connect
 
-Working on challenging AI problems in healthcare or finance? Let's collaborate.
+Building innovative AI systems in healthcare or distributed ML? Let's collaborate.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hamza-jasim-521645190)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HJ701)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzah.al-omairi@mbzuai.ac.ae)
 
 ---
 
 <div align="center">
 
-**💭 "The difference between a data scientist and an AI engineer?**  
-**One builds models. The other builds systems that use models to solve real problems."**
+**💭 "Real-world AI systems require more than good models—**  
+**they require robust engineering, safety guardrails, and production excellence."**
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)]()
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
 
 </div>
